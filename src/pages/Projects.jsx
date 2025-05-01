@@ -225,7 +225,7 @@ const Projects = () => {
             manage complaints, reply to users, and close complaints.
           </p>
           <a
-            href="https://lapcare01.vercel.app/login"
+            href="https://lapcare01.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
            className="inline-block text-white py-2 px-4 text-sm md:text-lg hover:bg-transparent hover:border hover:border-white hover:opacity-90 duration-300 mt-5 w-full text-center hover:scale-105 font-semibold rounded-3xl bg-[#465697]"
