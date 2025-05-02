@@ -25,14 +25,14 @@ const About = () => {
           <li className="flex items-start gap-4">
             <span className="text-cyan-400 text-2xl font-bold">🎓</span>
             <div>
-              <h3 className="text-xl md:text-2xl font-semibold">Higher Education</h3>
+              <h3 className="text-xl md:text-2xl font-semibold">Secondary Education (10th) </h3>
               <p className="text-sm md:text-lg text-gray-400">Mahadji Scindia H.S School, Ujjain (M.P.), 2018 - 2019</p>
             </div>
           </li>
           <li className="flex items-start gap-4">
             <span className="text-cyan-400 text-2xl font-bold">🎓</span>
             <div>
-              <h3 className="text-xl md:text-2xl font-semibold">Higher Secondary Education</h3>
+              <h3 className="text-xl md:text-2xl font-semibold">Senior Secondary Education (12th) </h3>
               <p className="text-sm md:text-lg text-gray-400">Mahadji Scindia H.S School, Ujjain (M.P.), 2020 - 2021</p>
             </div>
           </li>
