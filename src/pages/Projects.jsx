@@ -216,16 +216,16 @@ const Projects = () => {
           />
         </div>
         <div className="md:w-1/2">
-          <h2 className="text-2xl md:text-3xl font-semibold mb-4">Full Stack Project: Lapcare</h2>
+          <h2 className="text-2xl md:text-3xl font-semibold mb-4">Full Stack Project: Autocare</h2>
           <p className="text-gray-400">
-            Lapcare is a full-stack project built using the MERN stack (MongoDB, Express.js,
+            Autocare is a full-stack project built using the MERN stack (MongoDB, Express.js,
             React.js, Node.js) and Tailwind CSS. It includes user authentication (login/register)
-            and allows users to raise complaints about their broken laptops, view their complaints,
+            and allows users to raise complaints about their cars, view their complaints,
             interact with admins via comments, and close complaints. Admins can view all users,
             manage complaints, reply to users, and close complaints.
           </p>
           <a
-            href="https://lapcare01.vercel.app/"
+            href="https://autocare01.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
            className="inline-block text-white py-2 px-4 text-sm md:text-lg hover:bg-transparent hover:border hover:border-white hover:opacity-90 duration-300 mt-5 w-full text-center hover:scale-105 font-semibold rounded-3xl bg-[#465697]"
